@@ -509,7 +509,7 @@ def andom():
                 if cpok=='n':
                      pass
                 else:
-                     print('\r\033[1;91m[\033[1;97mHANNAN-CP\033[1;91m] \033[1;97m'+acc+' \033[1;91m•\033[1;97m '+pword)
+                     print('\r\033[1;91m[\033[1;97mKACHKOL-CP\033[1;91m] \033[1;97m'+acc+' \033[1;91m•\033[1;97m '+pword)
                 cpacc.append(acc)
                 open('/sdcard/Kachkol-CP.txt','a').write(f'{acc} • {pword}\n')
                 break
