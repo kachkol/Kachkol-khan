@@ -361,7 +361,7 @@ def method():
                 if cpok=='n':
                      pass
                 else:
-                     print('\r\033[1;91m[\033[1;97mHANNAN-CP\033[1;91m] \033[1;97m'+acc+' \033[1;91m•\033[1;97m '+pword)
+                     print('\r\033[1;91m[\033[1;97mKachkol-CP\033[1;91m] \033[1;97m'+acc+' \033[1;91m•\033[1;97m '+pword)
                 cpacc.append(acc)
                 open('/sdcard/Kachkol-CP.txt','a').write(f'{acc} • {pword}\n')
                 break
@@ -415,7 +415,7 @@ def andom():
     print('\033[1;93m='*25)
     print(f'{oo("✓")}Total Ids : \033[1;92m'+str(len(accounts)))
     print(f"{oo('-')}Wait As You Can :)")
-    print(f"{oo('•')}/sdcard/Hannan-OK.txt")
+    print(f"{oo('•')}/sdcard/Kachkol-OK.txt")
     print('\033[1;93m='*25)
     print()    
     def start(user):
