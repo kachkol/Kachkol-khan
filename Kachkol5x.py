@@ -115,11 +115,11 @@ logo1 = """
                                                   
  
 ╔══──────────────────────────╗─══╗
-║ OWNER 💓💓💓KKG-KHAN             ║║
-║  GITHUB 💝💝💝 KACHKOLKHAN(KKG)   ║ ║
-║ FACEBOOK 💝💝💝KACHKOL-KHAN ║ ║
-║  ENJOY 💝💝💝Pak Cloning                ║ ║
-║   Note 💝💝💝Use Fastest Speed NeT  ║ ║
+║  OWNER 💓💓💓KKG-KHAN                ║║
+║  GITHUB 💝💝💝 KACHKOLKHAN(KKG)     ║ ║
+║  FACEBOOK 💝💝💝KACHKOL-KHAN         ║ ║
+║  ENJOY 💝💝💝Pak Cloning            ║ ║
+║  Note 💝💝💝Use Fastest Speed NeT  ║ ║
 ╚══──────────────────────────╝─══╝
  
 """
@@ -147,14 +147,14 @@ logo2 = """
                                                             
                                                    
                          DON'T COPY MY SCRIPT
-                                      KKG-KHAN          
-                                        TNX(KKG)
+                         KKG-KHAN          
+                         TNX(KKG)
 ╔══──────────────────────────╗─══╗
-║OWNER 💓💓💓KKG-KHAN.                             ║
-║  GITHUB 💝💝💝 KACHKOL-KHAN                           ║
-║ FACEBOOK 💝💝💝KACHKOL-KHAN                        ║
-║  ENJOY 💝💝💝Pak Cloning                            ║
-║   Note 💝💝💝Use Fastest Speed Net            ║
+║  OWNER 💓💓💓KKG-KHAN.               ║
+║  GITHUB 💝💝💝 KACHKOL-KHAN          ║
+║  FACEBOOK 💝💝💝KACHKOL-KHAN         ║
+║  ENJOY 💝💝💝Pak Cloning             ║
+║   Note 💝💝💝Use Fastest Speed Net   ║
 ╚══──────────────────────────╝─══╝
 """
 print("""
